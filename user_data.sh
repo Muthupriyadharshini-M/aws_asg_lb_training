@@ -1,4 +1,3 @@
-## Open terminal
 #!/bin/bash
 
 ## Install required packages
