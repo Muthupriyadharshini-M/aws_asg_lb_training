@@ -2,7 +2,7 @@
 Scripts needed for AWS training on ASG and LB
 
 ## user_data.sh
-Bash script needed to install the required packages to run the Flask server on the machine before it's created by the Auto Scaling Group
+Bash script needed to install the required packages and clone the required repositories to run the Flask server on the machine before it's created by the Auto Scaling Group
 
 ## cpu_stress.py
 Python script to introduce CPU stress in a machine (to simulate auto scaling during the training)
